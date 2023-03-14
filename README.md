@@ -4,7 +4,7 @@ The dataset and code for the paper entitled *Generalization-Reinforced Semi-Supe
 
 # Dataset
 
-The OCT RNFLT maps with labels can be accessed via this [link](https://drive.google.com/drive/folders/1F9wM5W-00XMd2tqlt8b_pyi_yjkRwfpc?usp=share_link). **Our dataset shall be only used for non-profit academic education and research purposes. Our dataset shall not be used for commercial activities or research grant applications.**
+The OCT RNFLT maps with labels can be accessed via this [link](https://drive.google.com/drive/folders/1F9wM5W-00XMd2tqlt8b_pyi_yjkRwfpc?usp=share_link). **Our dataset must be only used for non-profit academic education and research purposes. Our dataset shall not be used for commercial activities or research grant applications.**
 
 The glaucoma data of 1000 patients includes 1000 OCT RNFLT maps (dimension 225x225). The visual field, patient age, sex, race, glaucoma and progression label information are also included in the data.
 
